@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Tasty Pizza",
+        "img": "/assets/tasty.jpg",
+        "price": 9900
+    },
+    {
+        "id": 2,
+        "title": "Delicious Burger",
+        "img": "assets/delicious.jpg",
+        "price": 12000
+    },
+    {
+        "id": 3,
+        "title": "Tasty Onion",
+        "img": "/assets/onion.jpeg",
+        "price": 10900
+    },
+    {
+        "id": 4,
+        "title": "Bacon Burger",
+        "img": "assets/bacon.jpg",
+        "price": 15000
+    },
+    {
+        "id": 5,
+        "title": "Mega Dibu",
+        "img": "assets/megadibu.jpeg",
+        "price": 11900
+    },
+    {
+        "id": 6,
+        "title": "Doble Mega Dibu",
+        "img": "assets/megadibudoble.jpeg",
+        "price": 13000
+    }
+]
