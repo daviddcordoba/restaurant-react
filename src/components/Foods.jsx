@@ -14,7 +14,7 @@ const Foods = () => {
   return (
     <div  className='min-h-screen py-10 flex flex-col gap-8 justify-center items-center lg:px-32 px-5'>
       <h1  className='text-4xl font-semibold text-center pt-8  pb-10'>Nuestras variedades</h1>
-      <div className='grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 '>
+      <div className='grid grid-cols-1 place-items-center gap-4 sm:grid-cols-2 md:grid-cols-3 '>
         {data.map(burger =>
             <FoodCard title={burger.title} img={burger.img} price={burger.price}/>
         )}
